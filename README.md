@@ -1,61 +1,85 @@
-# 🌿 MK's Home Maintenance & Landscaping Solutions
+<p align="center">
+  <img src="https://via.placeholder.com/180x180.png?text=MK's+Logo" alt="MK's Landscaping Logo" width="180">
+</p>
 
-**Reliable • Affordable • Professional Landscaping and Home Maintenance in Tobago**
+<h1 align="center" style="color:#2b8a3e;">🌿 MK's Home Maintenance & Landscaping Solutions 🌿</h1>
+
+<p align="center">
+  <strong>Reliable • Affordable • Professional Landscaping and Home Maintenance in Tobago</strong><br>
+  <a href="mailto:kensonmyer@yahoo.com">📧 kensonmyer@yahoo.com</a> | 
+  📞 719-5223 / 639-7030
+</p>
 
 ---
 
 ## 🏡 About Us
-MK's Home Maintenance & Landscaping Solutions is a family-owned local business serving the beautiful island of **Tobago**.  
-We specialize in keeping your property in top shape — from lush green lawns to well-maintained homes.
+MK's Home Maintenance & Landscaping Solutions is a **family-owned business** based in **Tobago**, dedicated to keeping your outdoor and indoor spaces beautiful, functional, and well-maintained.
 
-Our mission is simple:  
-> To make every yard and home we touch reflect care, quality, and pride.
+> _“We don’t just maintain lawns — we nurture the beauty of Tobago, one yard at a time.”_
 
 ---
 
 ## 🌱 Our Services
 
 ### 🌿 Landscaping
-Design, planting, mulching, and garden care to make your property flourish year-round.
+Custom garden design, planting, mulching, and general yard beautification.
 
 ### 🌾 Lawn & Garden Maintenance
-Weekly or biweekly lawn mowing, edging, hedge trimming, and seasonal clean-ups.
+Weekly or biweekly mowing, trimming, edging, pruning, and cleanups.
 
-### 🛠️ Home Maintenance
-Minor repairs, gutter cleaning, pressure washing, and property upkeep.
+### 🧹 Property Maintenance
+Minor home repairs, gutter cleaning, pressure washing, and painting.
 
 ---
 
 ## 📸 Project Gallery
-*(Coming Soon)*  
-Before-and-after photos and videos showcasing our most beautiful transformations.
+
+| Before | After |
+|:--:|:--:|
+| ![Before](https://via.placeholder.com/300x200.png?text=Before) | ![After](https://via.placeholder.com/300x200.png?text=After) |
+| ![Before](https://via.placeholder.com/300x200.png?text=Before+2) | ![After](https://via.placeholder.com/300x200.png?text=After+2) |
+
+> _Real project images coming soon!_
 
 ---
 
 ## 📍 Service Area
-We proudly serve **Mt. Pleasant**, **Bethel**, and surrounding communities across **Tobago**.
+Serving all of **Tobago**, including:
+- Mt. Pleasant  
+- Bethel  
+- Canaan  
+- Bon Accord  
+- Scarborough  
 
 ---
 
-## 📞 Contact Us
+## 💬 Request a Quote
+We’d love to serve you!  
+Fill out our online form below, and we’ll respond within 24 hours:
 
-**Phone:** 719-5223 / 639-7030  
-**Email:** [kensonmyer@yahoo.com](mailto:kensonmyer@yahoo.com)  
-**Business Owner:** Kenson Myer  
-
-Want a free quote?  
-Fill out our quick [Google Form Request](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform) *(replace with your actual form link)* and we’ll get back to you shortly.
+👉 [**Request a Quote Form**](https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?usp=sf_link)
 
 ---
 
 ## 💚 Why Choose MK's?
 
 ✅ Locally owned and operated  
-✅ Dependable, friendly service  
-✅ Quality workmanship, every time  
-✅ Affordable rates for both homes and businesses
+✅ Reliable and timely service  
+✅ Experienced professionals  
+✅ Affordable, transparent pricing  
+✅ 100% satisfaction guaranteed
 
-> _“We don’t just maintain lawns — we nurture the beauty of Tobago, one yard at a time.”_
+---
+
+## 🔗 Connect With Us
+
+<p align="center">
+  <a href="https://facebook.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="30" height="30"></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:kensonmyer@yahoo.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" alt="Email" width="30" height="30"></a>
+</p>
 
 ---
 
@@ -63,10 +87,13 @@ Fill out our quick [Google Form Request](https://docs.google.com/forms/d/e/YOUR_
 
 - [About MK's](#about-us)
 - [Our Services](#our-services)
-- [Contact Us](#contact-us)
-- [Gallery](#project-gallery)
+- [Contact Us](#💬-request-a-quote)
+- [Gallery](#📸-project-gallery)
+- [Connect With Us](#🔗-connect-with-us)
 
 ---
 
-### © 2025 MK’s Home Maintenance & Landscaping Solutions
-Proudly serving Tobago with care, craftsmanship, and commitment.
+<p align="center" style="color:#555;">
+  © <script>document.write(new Date().getFullYear())</script> MK’s Home Maintenance & Landscaping Solutions  
+  <br>Built and maintained by <strong>Kenson Myer</strong> — Tobago 🇹🇹
+</p>
